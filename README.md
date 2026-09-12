@@ -129,6 +129,7 @@ ARCHON é uma disciplina para transformar potência em capacidade governável.
 - [ARCHON aplicado a pessoas e organizações](docs/PESSOAS-E-ORGANIZACOES.md)
 - [Mapa SSAG ↔ ARCHON](docs/SSAG-COMO-EVIDENCIA.md)
 - [Origem e evolução](docs/ORIGEM-E-EVOLUCAO.md)
+- [Sustentabilidade, adoção e uso comercial](docs/SUSTENTABILIDADE-E-USO-COMERCIAL.md)
 - [Histórico de mudanças](CHANGELOG.md)
 - [Manifesto público v1](MANIFESTO-v1.md)
 - [Manifesto original preservado](MANIFESTO-ORIGINAL.md)

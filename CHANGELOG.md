@@ -1,5 +1,18 @@
 # Changelog
 
+## v2.1 — Sustentabilidade, adoção e uso comercial
+
+Publicação estruturada em 12 de setembro de 2026.
+
+### Mudanças centrais
+
+- explicita que o conhecimento pode circular de forma aberta enquanto a autoria permanece reconhecida;
+- diferencia aplicação independente, serviços profissionais, implementação oficial e certificação;
+- estabelece que apoio financeiro não transfere autoridade editorial nem implica endosso;
+- separa a licença dos textos e diagramas de eventuais políticas de marca, selo e identidade;
+- apresenta um modelo sustentável em quatro camadas: manifesto aberto, comunidade, serviços profissionais e validação;
+- mantém inalterada a formulação canônica de `MANIFESTO.md`.
+
 ## v2 — Filosofia como extensão, não identidade
 
 Publicação estruturada em 12 de setembro de 2026.
